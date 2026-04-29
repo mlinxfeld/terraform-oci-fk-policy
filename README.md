@@ -174,3 +174,7 @@ This makes the module ideal for:
 
 Licensed under the **Universal Permissive License (UPL), Version 1.0**.
 See [LICENSE](LICENSE) for details.
+
+---
+
+© 2026 [FoggyKitchen.com](https://foggykitchen.com/courses-2/) - *Cloud. Code. Clarity.*
